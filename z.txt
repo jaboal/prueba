@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Querido mundo
+=======
+hola mundo
+>>>>>>> expiremental2
